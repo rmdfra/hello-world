@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+
+Hello! What we play is life.
